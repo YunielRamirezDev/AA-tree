@@ -5,10 +5,6 @@
  */
 package aatree;
 
-/**
- *
- * @author JC
- */
 public class Tree {
 
     Node root;

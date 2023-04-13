@@ -7,10 +7,7 @@ package aatree;
 
 import java.util.Scanner;
 
-/**
- *
- * @author JC
- */
+
 public class AATree {
 
     /**

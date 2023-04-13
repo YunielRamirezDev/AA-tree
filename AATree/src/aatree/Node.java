@@ -5,10 +5,6 @@
  */
 package aatree;
 
-/**
- *
- * @author JC
- */
 public class Node {
 
     int id;

@@ -5,10 +5,7 @@
  */
 package aatree;
 
-/**
- *
- * @author JC
- */
+
 public class Student {
 
     String name;
